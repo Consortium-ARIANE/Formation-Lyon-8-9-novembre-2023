@@ -89,6 +89,13 @@ Jennifer Edmond (PR, Digital Humanities): "Literary Studies: Close, Distant, and
 - *(à compléter)*
 
 
+## Ressources complémentaires
 
+Pour apprendre à programmer en Python :
 
+- Tutoriel officiel en français : <https://docs.python.org/fr/3/tutorial/>
+- Un cours de l'Univ. Paris-Direrot : <https://python.sdv.univ-paris-diderot.fr/01_introduction/>
+- Un livre disponible gratuitement en ligne, à destination des débutants : <https://www.inforef.be/swi/python.htm>
+- Un autre : <https://perso.limsi.fr/pointal/python:courspython3>
+- Un MOOC sur Python, en vidéo : <https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python>
 
