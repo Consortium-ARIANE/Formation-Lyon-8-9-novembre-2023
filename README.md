@@ -26,7 +26,7 @@ Julien Velcin (PR, Informatique):  "L’IA pour les sciences des textes"
 
 ### Jour 1, atelier 1 — 13:30–15:30
 
-**Ioana GALLERON et Carmen BRANDO**
+**Ioana Galleron et Carmen Brando**
 
 **Contenu**
 
@@ -69,6 +69,7 @@ Jennifer Edmond (PR, Digital Humanities): "Literary Studies: Close, Distant, and
 ## Jour 2, atelier 3 — 11:00–12:30
 
 **Joseph Chazalon et Carmen Brando**
+
 **Contenu**
 
 - Initiation à la reconnaissance d'entités nommées
