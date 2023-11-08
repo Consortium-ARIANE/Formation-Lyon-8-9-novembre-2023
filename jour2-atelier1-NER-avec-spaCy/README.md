@@ -4,13 +4,13 @@ Activité conçue pour le consortium HumaNum Ariane, pour une formation à Lyon 
 
 | 🏃 Accès direct aux supports 👇 |
 |--------------|
-| [![](https://img.shields.io/badge/Pr%C3%A9sentation-Ouvrir%20dans%20Google%20Slides-orange?logo=googleslides)](https://docs.google.com/presentation/d/1_RycfOOeQo8XZNojsx7SzaSDyhepj-8n8w7xMpf9UGI/edit)  [![](https://img.shields.io/badge/Notebook-Ouvrir%20dans%20Google%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/jchazalon/hn-ariane-ner-tuto-2023/blob/main/intro-ner-spacy-student.ipynb)  | 
+| [![](https://img.shields.io/badge/Pr%C3%A9sentation-Ouvrir%20dans%20Google%20Slides-orange?logo=googleslides)](https://docs.google.com/presentation/d/1_RycfOOeQo8XZNojsx7SzaSDyhepj-8n8w7xMpf9UGI/edit)  [![](https://img.shields.io/badge/Notebook-Ouvrir%20dans%20Google%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/Consortium-ARIANE/Formation-Lyon-8-9-novembre-2023/blob/main/jour2-atelier1-NER-avec-spaCy/intro-ner-spacy-student.ipynb)  | 
 
 ## Contenu de l'activité
 
 Cette activité repose sur 2 ressources pédagogiques autocontenues :
 1. un [jeu de *slides*](https://docs.google.com/presentation/d/1_RycfOOeQo8XZNojsx7SzaSDyhepj-8n8w7xMpf9UGI/edit#slide=id.p),
-2. un [notebook](https://colab.research.google.com/github/jchazalon/hn-ariane-ner-tuto-2023/blob/main/intro-ner-spacy-student.ipynb) qu'il est possible d'utiliser directement sur Google Colab.
+2. un [notebook](https://colab.research.google.com/github/Consortium-ARIANE/Formation-Lyon-8-9-novembre-2023/blob/main/jour2-atelier1-NER-avec-spaCy/intro-ner-spacy-student.ipynb) qu'il est possible d'utiliser directement sur Google Colab.
 
 Cette activité devrait durer un peu **moins d'une heure** pour une exploration en surface.
 
@@ -42,7 +42,7 @@ Les données de cet atelier sont adaptées du “[French ELTEC NER Open Dataset]
 Ce cours et les données associées sont sous licence [Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
 Pour citer ce travail, merci d'indiquer :
 
-> Consortium HumaNum Ariane, Joseph Chazalon, Atelier d'initiation à l'extraction d'entités nommées, en ligne : <https://github.com/jchazalon/hn-ariane-ner-tuto-2023>, 9 novembre 2023, Lyon.
+> Consortium HumaNum Ariane, Joseph Chazalon, Atelier d'initiation à l'extraction d'entités nommées, en ligne : <https://github.com/Consortium-ARIANE/Formation-Lyon-8-9-novembre-2023/jour2-atelier1-NER-avec-spaCy>, 9 novembre 2023, Lyon.
 
 
 ## Préparation des supports à destination des apprenants
