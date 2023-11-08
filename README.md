@@ -26,6 +26,8 @@ Julien Velcin (PR, Informatique):  "L’IA pour les sciences des textes"
 
 ### Jour 1, atelier 1 — 13:30–15:30
 
+**Ioana GALLERON et Carmen BRANDO**
+
 **Contenu**
 
 - Bases de la programmation: algorithmique, regex, xpath.
@@ -38,6 +40,8 @@ Julien Velcin (PR, Informatique):  "L’IA pour les sciences des textes"
 
 
 ## Jour 1, atelier 2 — 16:00–18:00
+
+**Marianne Reboul**
 
 **Contenu**
 
@@ -64,6 +68,7 @@ Jennifer Edmond (PR, Digital Humanities): "Literary Studies: Close, Distant, and
 
 ## Jour 2, atelier 3 — 11:00–12:30
 
+**Joseph Chazalon et Carmen Brando**
 **Contenu**
 
 - Initiation à la reconnaissance d'entités nommées
@@ -73,20 +78,24 @@ Jennifer Edmond (PR, Digital Humanities): "Literary Studies: Close, Distant, and
 **Ressources**
 
 - [slides](https://docs.google.com/presentation/d/1_RycfOOeQo8XZNojsx7SzaSDyhepj-8n8w7xMpf9UGI/edit)
-- [notebook](https://colab.research.google.com/github/Consortium-ARIANE/Formation-Lyon-8-9-novembre-2023/blob/main/jour2-atelier1-NER-avec-spaCy/intro-ner-spacy-student.ipynb) à éditer directement sur Google Colabb
+- [notebook](https://colab.research.google.com/github/Consortium-ARIANE/Formation-Lyon-8-9-novembre-2023/blob/main/jour2-atelier1-NER-avec-spaCy/intro-ner-spacy-student.ipynb) à éditer directement sur Google Colab
 - [fichiers complèmentaires et présentation générale](https://github.com/Consortium-ARIANE/Formation-Lyon-8-9-novembre-2023/tree/main/jour2-atelier1-NER-avec-spaCy)
 
 
 ## Jour 2, atelier 4 — 13:30–15:30
 
+**Motasem Alrahabi**
+
+
 **Contenu**
 
+- Utilisation de Hugging Face pour l'analyse textuelle
 - Cartographie émotionnelle des entités nommées de lieu
 
 
 **Ressources**
 
-- *(à compléter)*
+- [notebook](https://colab.research.google.com/drive/1Es7sDrnOnhLtjo-7OBraEqRkW32OZq7x?usp=sharing) à éditer sur Google Colab.
 
 
 ## Ressources complémentaires
